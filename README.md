@@ -1,13 +1,12 @@
-<img src="https://img.shields.io/badge/-Frontend_Developer-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img width="100%" src="https://img.shields.io/badge/-Frontend_Developer-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<div align="start">
-<h2>Привет! Я Руслан Олейничук</h2>
----
-<div>**Создаю интерфейсы, которые решают задачи, а неусложняют их.**</div>
-
-_Мой Github username - шутка о том, что даже самую сложную вёрстку можно привести к чистой семантике и логике._
-
-</div>
+<div>
+  
+<h1 align="start">Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  
+**Я начинающий фронтенд-разработчик, который любит создавать понятные и рабочие интерфейсы**
+  
+<div>
 
 ---
 
