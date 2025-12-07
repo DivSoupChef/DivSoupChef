@@ -1,6 +1,6 @@
-<img src="./assets/img/frontend-developer.jpg">
+<img src="./assets/img/frontend-developer-2.jpg">
 
-<div align="center">
+<div align="start">
 #Руслан / Frontend Developer
 
 **Создаю интерфейсы, которые решают задачи, а неусложняют их.**
