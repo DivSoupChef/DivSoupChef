@@ -1,4 +1,4 @@
-<img src="./assets/img/frontend-developer-2.jpg">
+<img src="https://img.shields.io/badge/-Frontend_Developer-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <div align="start">
 <h2>Привет! Я Руслан Олейничук</h2>
