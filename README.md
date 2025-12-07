@@ -1,3 +1,5 @@
+<img src="./assets/img/frontend-developer.jpg">
+
 <div align="center">
 #Руслан / Frontend Developer
 
