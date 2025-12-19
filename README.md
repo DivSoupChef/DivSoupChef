@@ -38,7 +38,7 @@
 
 | SilkRoute Pro | Barometer |
 |-------------|-------------|
-| [![SikRoute Pro](./img/Thumbnail.png)](https://github.com/DivSoupChef/silkroute-pro)   | [![Barometer](./img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/silkroute-pro)   |
+| [![SikRoute Pro](./img/Thumbnail.png)](https://github.com/DivSoupChef/silkroute-pro-portfolio)   | [![Barometer](./img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/Barometer)   |
 ---
 
 ## Мой подход к обучению
