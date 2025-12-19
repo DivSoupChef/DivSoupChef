@@ -40,7 +40,7 @@ _Мой Github username - шутка о том, что даже самую сл�
 
 | SilkRoute Pro | Barometer |
 |-------------|-------------|
-| [![SikRoute Pro](./assets/img/Thumbnail.png)](https://github.com/DivSoupChef/silkroute-pro)   | [![Barometer](./assets/img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/silkroute-pro)   |
+| [![SikRoute Pro](./img/Thumbnail.png)](https://github.com/DivSoupChef/silkroute-pro)   | [![Barometer](./img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/silkroute-pro)   |
 ---
 
 ## Мой подход к обучению
