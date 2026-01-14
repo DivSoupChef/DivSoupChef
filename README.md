@@ -36,9 +36,14 @@
 
 ## Мои проекты
 
-| SilkRoute Pro | Barometer |
-|-------------|-------------|
-| [![SikRoute Pro](./img/Thumbnail.png)](https://github.com/DivSoupChef/silkroute-pro-portfolio)   | [![Barometer](./img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/Barometer)   |
+|    DVTK     | SilkRoute Pro |
+|-------------|---------------|
+| [![Dvtk](./img/dvtk.jpg)](https://github.com/DivSoupChef/dvtk-landing) | [![SikRoute Pro](./img/silkroute-pro.jpg)](https://github.com/DivSoupChef/silkroute-pro-portfolio) |
+
+| Barometer   | AuthFlow TS |
+|-------------| ----------- |
+| [![Barometer](./img/Thumbnail-in-development.png)](https://github.com/DivSoupChef/Barometer) | [![AuthFlow TS](./img/authflow-ts.jpg)](https://github.com/DivSoupChef/authflow-ts) |
+
 ---
 
 ## Мой подход к обучению
