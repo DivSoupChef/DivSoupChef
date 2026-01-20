@@ -38,7 +38,7 @@
 
 |    DVTK     | SilkRoute Pro |
 |-------------|---------------|
-| [![Dvtk](./img/dvtk.jpg)](https://github.com/DivSoupChef/dvtk-landing) | [![SikRoute Pro](./img/silkroute-pro.jpg)](https://github.com/DivSoupChef/silkroute-pro-portfolio) |
+| [![Dvtk](./img/dvtk.jpg)](https://github.com/DivSoupChef/dvtk-project) | [![SikRoute Pro](./img/silkroute-pro.jpg)](https://github.com/DivSoupChef/silkroute-pro-portfolio) |
 
 | Barometer   | AuthFlow TS |
 |-------------| ----------- |
